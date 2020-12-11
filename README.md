@@ -1,16 +1,17 @@
-### Hi there 👋
+## Console.WriteLine("Hello world!") 👋
 
-<!--
-**Raicelys21/Raicelys21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently studing computer and system engineering!
 
-Here are some ideas to get you started:
+🌱 I’m currently learning machine learning and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I try to learn new things everyday.
+
+🤔 I'm new coder girl.
+
+⚡ I would like to be a full-stack developer.
+
+😄 I want will be a developer and increase my and yours technical skills in web design, web development, problems solving and amongs others. 
+
+⚡ My main programming languages/platforms are: C sharp, C++ and a little bit of Python.
+
+You can follow me and download my content. 😊
