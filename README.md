@@ -10,8 +10,6 @@
 
 ⚡ I would like to be a full-stack developer.
 
-😄 I want will be a developer and increase my and yours technical skills in web design, web development, problems solving and amongs others. 
-
-⚡ My main programming languages/platforms are: C sharp, C++ and a little bit of Python.
+I want will be a developer and increase my and yours technical skills in web design, web development, problems solving and amongs others. My main programming languages/platforms are: C sharp, C++ and a little bit of Python.
 
 You can follow me and download my content. 😊
