@@ -1,4 +1,4 @@
-### Console.WriteLine("Hola, soy Raicelys! 👋") 
+### Console.WriteLine("Hola, soy Raicelys! 👋");
 
 Soy estudiante de Ingeniería en Sistemas y Computación, me considero una desarrolladora junior.
 Quisiera ser full-stack. No obstante, en este momento solo tengo el dominio de: C++, C Sharp, XNA and Monogame (using C#) y un poco de Python. ⚡ 
