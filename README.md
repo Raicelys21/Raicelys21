@@ -1,15 +1,17 @@
-## Console.WriteLine("Hello world!") 👋
+### Console.WriteLine("Hola mundo!") 👋
 
-🔭 I’m currently studing computer and system engineering!
+## Sobre mi
 
-🌱 I’m currently learning machine learning and software engineering.
+🔭 Actualmente estoy esudiando Ingeniería en Sistemas y Computación.
 
-👯 I try to learn new things everyday.
+🌱 Estoy aprendiendo Machine Learning.
 
-🤔 I'm new coder girl.
+👯 Me gustaría aprender UI/UX, Data Science, Data Analysis and 
 
-⚡ I would like to be a full-stack developer.
+🤔 Soy una desarrolladora junior.
 
-I want will be a developer and increase my and yours technical skills in web design, web development, problems solving and amongs others. My main programming languages/platforms are: C sharp, C++ and a little bit of Python.
+⚡ Estoy aprendiendo diferentes lenguajes para ser full-stack.
 
-You can follow me and download my content. 😊
+😊 Lenguajes que domino: C++, C Sharp, VS .NET.
+
+Si te gusta mi contenido, puedes seguirme y descargarlo.
