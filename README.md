@@ -1,6 +1,8 @@
 <h1 align="center">Hello world! 👋, I'm Raicelys Suero</h1>
 <h3 align="center">A backend developer junior! 🙋🏾‍♀️</h3>
 
+![Ray](https://user-images.githubusercontent.com/72804397/101912466-a5df8100-3b76-11eb-800b-71e033eddbe5.png)
+
 - 🔭 I’m currently studing **system and computing engineering.**
 
 - 🌱 I’m currently learning **UI/UX desing and machine learning.**
