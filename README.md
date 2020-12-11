@@ -1,7 +1,7 @@
 ### Console.WriteLine("Hola mundo! 👋") 
 
-Hola, soy Raicelys Suero y actualmente estoy esudiando Ingeniería en Sistemas y Computación, me considero una desarrolladora junior.
-Quisiera ser full-stack. No obstante, en este mmento solo tengo el dominio de: C++, C Sharp, XNA and Monogame (using C#) y un poco de Python. ⚡ 
+Hola, soy Raicelys Suero, actualmente estoy esudiando Ingeniería en Sistemas y Computación, me considero una desarrolladora junior.
+Quisiera ser full-stack. No obstante, en este momento solo tengo el dominio de: C++, C Sharp, XNA and Monogame (using C#) y un poco de Python. ⚡ 
 
 🌱 Estoy aprendiendo Machine Learning y UI/UX.
 
