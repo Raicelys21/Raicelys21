@@ -40,7 +40,7 @@ print('I'm talkative and friendly. ⚡')
 <img src="https://user-images.githubusercontent.com/72804397/102773790-ac23e900-433e-11eb-8a49-acde715b62ce.jpeg" width="120" height="120">
 </p>
 
-## @codingwithray (content account) <a href="https://instagram.com/codingwithray"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codingwithray" height="20" width="30" />
+## @codingwithray (content account) <a href="https://instagram.com/codingwithray" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codingwithray" height="20" width="30" /></a>
   
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/72804397/102770168-8dbaef00-4338-11eb-9468-1309fd3089e4.jpeg" width="250" height="250">
