@@ -29,8 +29,9 @@ print('I'm talkative and friendly. ⚡')
 
 - 📄 I have a little bit of experience in **Monogame or XNA development using C#.**
 
+- ⚡ Know about my experiences in [https://www.instagram.com/raicelys21/](https://www.instagram.com/raicelys21/) and [https://www.instagram.com/codingwithray/](https://www.instagram.com/codingwithray/)
 
-## @raicelys21 (personal account) <a href="https://instagram.com/raicelys21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raicelys21" height="20" width="30" />
+## @raicelys21 (personal account) <a href="https://instagram.com/raicelys21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raicelys21" height="20" width="30" /></a>
   
 <p align="left">
 <img src="https://user-images.githubusercontent.com/72804397/102773768-a29a8100-433e-11eb-9eff-97f805f9369b.jpeg" width="120" height="120">
