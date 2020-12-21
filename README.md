@@ -41,8 +41,9 @@ print('I'm talkative and friendly. ⚡')
 </p>
 
 ## @codingwithray (content account)
+<img src="https://user-images.githubusercontent.com/72804397/102771361-a3311880-433a-11eb-8c64-b5b8f1ed4ac3.png">
+
 <p align="left"> 
-<img src="https://user-images.githubusercontent.com/72804397/102771361-a3311880-433a-11eb-8c64-b5b8f1ed4ac3.png" width="200" height="100">
 <img src="https://user-images.githubusercontent.com/72804397/102770168-8dbaef00-4338-11eb-9468-1309fd3089e4.jpeg" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/72804397/102770172-8f84b280-4338-11eb-8b77-54a20cd66ffb.jpeg" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/72804397/102770176-901d4900-4338-11eb-9b49-93fb26a8b669.jpeg" width="100" height="100"> 
