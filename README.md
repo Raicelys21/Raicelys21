@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! 👋, I'm Raicelys Suero</h1>
-<h3 align="center">A backend developer junior! 🙋🏾‍♀️</h3>
+<h3 align="center">A junior programmer! 🙋🏾‍♀️</h3>
 
 ## Presentation
 
