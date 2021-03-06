@@ -20,11 +20,9 @@ print('I'm talkative and friendly. ⚡')
 
 ## More about me
 
-- 🌱 I’m currently learning **UI/UX design, prototyping, edition and illustration.**
+- 🌱 I’m currently learning *programming and development*.
 
 - 📫 How to reach me: **codingwithrays@gmail.com**
-
-- 📄 I have a little bit of experience in **Monogame or XNA development and Unity using C#.**
 
 - ⚡ Know about my experiences in my instagram: [https://www.instagram.com/raicelys21/](https://www.instagram.com/raicelys21/).
 
