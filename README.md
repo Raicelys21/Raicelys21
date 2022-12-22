@@ -14,12 +14,6 @@ if yourcourage > yourfear:
   print("We can collaborate on a project! 😄")
 
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raicelys21&show_icons=true&locale=en&layout=compact" alt="raicelys21" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raicelys21&show_icons=true&locale=en" alt="raicelys21" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raicelys21&" alt="raicelys21" /></p>
-
 
 ## Skills ⭐️
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
