@@ -2,7 +2,7 @@
 
 <h4> &lt; about&gt; </h4>
 
-```
+###
 ```
 print('Currently system and computing student.') 
 print('Dominican Republic = dominican') 
@@ -15,9 +15,9 @@ yourfear = 10
 if yourcourage > yourfear:
   print("We can collaborate on a project!")
 ```
-```
 
 <h4> &lt; skill &gt; </h4>
+###
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
