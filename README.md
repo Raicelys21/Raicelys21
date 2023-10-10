@@ -4,7 +4,6 @@
 
 ###
 ```
-print('Currently system and computing student.') 
 print('Dominican Republic = dominican') 
 print('19 years old🏾') 
 print('Talkative, friendly and I loves to learn new things.') 
