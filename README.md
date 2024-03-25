@@ -4,9 +4,6 @@
 
 ###
 ```
-print('Dominican Republic = dominican') 
-print('20 years old') 
-print('Talkative, friendly and I loves to learn new things.') 
 
 yourcourage = 90
 yourfear = 10
